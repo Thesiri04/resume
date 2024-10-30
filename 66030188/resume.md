@@ -9,7 +9,7 @@
 - C#, Python
 - Team Management
 - Graphic Design
-- GitHub , VSCode , MS Office
+- GitHub ,VSCode, MS Office
 - Communication
 ### Language
 - English
